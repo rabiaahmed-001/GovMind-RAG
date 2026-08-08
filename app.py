@@ -140,7 +140,7 @@ def main():
         st.subheader("Sources")
 
         chunks = result.chunks
-        sources = result.get("sources", [])
+
 
         if not chunks:
             st.info("No relevant sources were found.")
