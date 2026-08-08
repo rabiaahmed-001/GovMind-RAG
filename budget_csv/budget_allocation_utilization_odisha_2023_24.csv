@@ -1,0 +1,97 @@
+budget_id,financial_year,department,scheme,district,budget_allocated_cr,budget_utilized_cr,utilization_pct,unutilized_cr,flag
+OD-BUD-2023001,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Khordha,42.47,37.88,89.2,4.59,On Track
+OD-BUD-2023002,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Cuttack,13.3,4.32,32.5,8.98,Low Utilization
+OD-BUD-2023003,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Puri,30.26,16.01,52.9,14.25,Low Utilization
+OD-BUD-2023004,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Ganjam,37.7,15.74,41.7,21.96,Low Utilization
+OD-BUD-2023005,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Mayurbhanj,5.6,5.04,90.0,0.56,On Track
+OD-BUD-2023006,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Balasore,37.94,35.4,93.3,2.54,On Track
+OD-BUD-2023007,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Jajpur,35.64,10.49,29.4,25.15,Low Utilization
+OD-BUD-2023008,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Kalahandi,44.48,10.56,23.7,33.92,Low Utilization
+OD-BUD-2023009,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Koraput,8.97,8.11,90.4,0.86,On Track
+OD-BUD-2023010,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Bhadrak,14.51,12.61,86.9,1.9,On Track
+OD-BUD-2023011,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Sundargarh,22.1,19.99,90.4,2.11,On Track
+OD-BUD-2023012,2023-24,Public Health Engineering,Jal Jeevan Mission (Rural Piped Water),Rourkela,29.03,27.84,95.9,1.19,On Track
+OD-BUD-2023013,2023-24,Health & Family Welfare,National Health Mission (NHM),Khordha,30.2,25.81,85.5,4.39,On Track
+OD-BUD-2023014,2023-24,Health & Family Welfare,National Health Mission (NHM),Cuttack,7.98,7.64,95.7,0.34,On Track
+OD-BUD-2023015,2023-24,Health & Family Welfare,National Health Mission (NHM),Puri,9.66,7.06,73.1,2.6,Delayed Spending
+OD-BUD-2023016,2023-24,Health & Family Welfare,National Health Mission (NHM),Ganjam,19.31,18.14,94.0,1.17,On Track
+OD-BUD-2023017,2023-24,Health & Family Welfare,National Health Mission (NHM),Mayurbhanj,36.41,26.94,74.0,9.47,Delayed Spending
+OD-BUD-2023018,2023-24,Health & Family Welfare,National Health Mission (NHM),Balasore,39.42,13.43,34.1,25.99,Low Utilization
+OD-BUD-2023019,2023-24,Health & Family Welfare,National Health Mission (NHM),Jajpur,20.05,19.24,95.9,0.81,On Track
+OD-BUD-2023020,2023-24,Health & Family Welfare,National Health Mission (NHM),Kalahandi,43.07,41.05,95.3,2.02,On Track
+OD-BUD-2023021,2023-24,Health & Family Welfare,National Health Mission (NHM),Koraput,21.42,20.6,96.2,0.82,On Track
+OD-BUD-2023022,2023-24,Health & Family Welfare,National Health Mission (NHM),Bhadrak,43.2,14.67,34.0,28.53,Low Utilization
+OD-BUD-2023023,2023-24,Health & Family Welfare,National Health Mission (NHM),Sundargarh,42.56,38.88,91.3,3.68,On Track
+OD-BUD-2023024,2023-24,Health & Family Welfare,National Health Mission (NHM),Rourkela,16.47,11.48,69.7,4.99,Delayed Spending
+OD-BUD-2023025,2023-24,School & Mass Education,Samagra Shiksha,Khordha,38.66,34.89,90.3,3.77,On Track
+OD-BUD-2023026,2023-24,School & Mass Education,Samagra Shiksha,Cuttack,12.89,9.19,71.3,3.7,Delayed Spending
+OD-BUD-2023027,2023-24,School & Mass Education,Samagra Shiksha,Puri,31.51,22.9,72.7,8.61,Delayed Spending
+OD-BUD-2023028,2023-24,School & Mass Education,Samagra Shiksha,Ganjam,4.7,4.19,89.1,0.51,On Track
+OD-BUD-2023029,2023-24,School & Mass Education,Samagra Shiksha,Mayurbhanj,11.03,8.17,74.1,2.86,Delayed Spending
+OD-BUD-2023030,2023-24,School & Mass Education,Samagra Shiksha,Balasore,43.83,30.85,70.4,12.98,Delayed Spending
+OD-BUD-2023031,2023-24,School & Mass Education,Samagra Shiksha,Jajpur,10.03,6.46,64.4,3.57,Delayed Spending
+OD-BUD-2023032,2023-24,School & Mass Education,Samagra Shiksha,Kalahandi,40.16,35.07,87.3,5.09,On Track
+OD-BUD-2023033,2023-24,School & Mass Education,Samagra Shiksha,Koraput,21.89,20.0,91.4,1.89,On Track
+OD-BUD-2023034,2023-24,School & Mass Education,Samagra Shiksha,Bhadrak,24.76,14.41,58.2,10.35,Delayed Spending
+OD-BUD-2023035,2023-24,School & Mass Education,Samagra Shiksha,Sundargarh,25.37,22.74,89.6,2.63,On Track
+OD-BUD-2023036,2023-24,School & Mass Education,Samagra Shiksha,Rourkela,11.98,11.88,99.2,0.1,On Track
+OD-BUD-2023037,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Khordha,8.48,5.72,67.5,2.76,Delayed Spending
+OD-BUD-2023038,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Cuttack,13.05,12.19,93.4,0.86,On Track
+OD-BUD-2023039,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Puri,34.29,31.39,91.5,2.9,On Track
+OD-BUD-2023040,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Ganjam,21.32,19.42,91.1,1.9,On Track
+OD-BUD-2023041,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Mayurbhanj,43.6,35.96,82.5,7.64,Delayed Spending
+OD-BUD-2023042,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Balasore,18.52,16.96,91.6,1.56,On Track
+OD-BUD-2023043,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Jajpur,6.76,5.18,76.6,1.58,Delayed Spending
+OD-BUD-2023044,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Kalahandi,6.67,4.69,70.4,1.98,Delayed Spending
+OD-BUD-2023045,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Koraput,18.07,17.96,99.4,0.11,On Track
+OD-BUD-2023046,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Bhadrak,14.12,12.37,87.6,1.75,On Track
+OD-BUD-2023047,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Sundargarh,42.98,29.42,68.5,13.56,Delayed Spending
+OD-BUD-2023048,2023-24,Housing & Urban Development,AMRUT 2.0 / Urban Infrastructure,Rourkela,31.77,31.21,98.2,0.56,On Track
+OD-BUD-2023049,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Khordha,43.8,29.68,67.8,14.12,Delayed Spending
+OD-BUD-2023050,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Cuttack,36.55,23.83,65.2,12.72,Delayed Spending
+OD-BUD-2023051,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Puri,5.06,2.12,41.9,2.94,Low Utilization
+OD-BUD-2023052,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Ganjam,7.25,2.88,39.7,4.37,Low Utilization
+OD-BUD-2023053,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Mayurbhanj,34.17,29.25,85.6,4.92,On Track
+OD-BUD-2023054,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Balasore,28.61,10.1,35.3,18.51,Low Utilization
+OD-BUD-2023055,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Jajpur,38.25,38.15,99.7,0.1,On Track
+OD-BUD-2023056,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Kalahandi,32.87,32.83,99.9,0.04,On Track
+OD-BUD-2023057,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Koraput,41.59,37.77,90.8,3.82,On Track
+OD-BUD-2023058,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Bhadrak,29.68,26.72,90.0,2.96,On Track
+OD-BUD-2023059,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Sundargarh,13.96,13.65,97.8,0.31,On Track
+OD-BUD-2023060,2023-24,Rural Development,Pradhan Mantri Gram Sadak Yojana (PMGSY),Rourkela,6.88,5.61,81.6,1.27,Delayed Spending
+OD-BUD-2023061,2023-24,Women & Child Development,Mission Shakti / ICDS,Khordha,30.98,23.41,75.6,7.57,Delayed Spending
+OD-BUD-2023062,2023-24,Women & Child Development,Mission Shakti / ICDS,Cuttack,30.2,13.26,43.9,16.94,Low Utilization
+OD-BUD-2023063,2023-24,Women & Child Development,Mission Shakti / ICDS,Puri,44.88,25.9,57.7,18.98,Delayed Spending
+OD-BUD-2023064,2023-24,Women & Child Development,Mission Shakti / ICDS,Ganjam,4.26,3.52,82.6,0.74,Delayed Spending
+OD-BUD-2023065,2023-24,Women & Child Development,Mission Shakti / ICDS,Mayurbhanj,11.47,6.82,59.5,4.65,Delayed Spending
+OD-BUD-2023066,2023-24,Women & Child Development,Mission Shakti / ICDS,Balasore,24.57,18.78,76.4,5.79,Delayed Spending
+OD-BUD-2023067,2023-24,Women & Child Development,Mission Shakti / ICDS,Jajpur,39.87,37.59,94.3,2.28,On Track
+OD-BUD-2023068,2023-24,Women & Child Development,Mission Shakti / ICDS,Kalahandi,32.25,30.43,94.4,1.82,On Track
+OD-BUD-2023069,2023-24,Women & Child Development,Mission Shakti / ICDS,Koraput,18.62,15.48,83.1,3.14,Delayed Spending
+OD-BUD-2023070,2023-24,Women & Child Development,Mission Shakti / ICDS,Bhadrak,36.03,22.32,61.9,13.71,Delayed Spending
+OD-BUD-2023071,2023-24,Women & Child Development,Mission Shakti / ICDS,Sundargarh,41.01,36.05,87.9,4.96,On Track
+OD-BUD-2023072,2023-24,Women & Child Development,Mission Shakti / ICDS,Rourkela,35.43,34.25,96.7,1.18,On Track
+OD-BUD-2023073,2023-24,Water Resources,Flood Control & Embankment Strengthening,Khordha,11.79,9.47,80.3,2.32,Delayed Spending
+OD-BUD-2023074,2023-24,Water Resources,Flood Control & Embankment Strengthening,Cuttack,18.91,18.72,99.0,0.19,On Track
+OD-BUD-2023075,2023-24,Water Resources,Flood Control & Embankment Strengthening,Puri,6.98,2.61,37.5,4.37,Low Utilization
+OD-BUD-2023076,2023-24,Water Resources,Flood Control & Embankment Strengthening,Ganjam,7.31,3.66,50.1,3.65,Low Utilization
+OD-BUD-2023077,2023-24,Water Resources,Flood Control & Embankment Strengthening,Mayurbhanj,20.72,18.84,90.9,1.88,On Track
+OD-BUD-2023078,2023-24,Water Resources,Flood Control & Embankment Strengthening,Balasore,12.82,11.51,89.8,1.31,On Track
+OD-BUD-2023079,2023-24,Water Resources,Flood Control & Embankment Strengthening,Jajpur,9.56,3.45,36.1,6.11,Low Utilization
+OD-BUD-2023080,2023-24,Water Resources,Flood Control & Embankment Strengthening,Kalahandi,34.99,32.2,92.0,2.79,On Track
+OD-BUD-2023081,2023-24,Water Resources,Flood Control & Embankment Strengthening,Koraput,12.45,10.86,87.2,1.59,On Track
+OD-BUD-2023082,2023-24,Water Resources,Flood Control & Embankment Strengthening,Bhadrak,35.71,20.9,58.5,14.81,Delayed Spending
+OD-BUD-2023083,2023-24,Water Resources,Flood Control & Embankment Strengthening,Sundargarh,29.35,23.26,79.3,6.09,Delayed Spending
+OD-BUD-2023084,2023-24,Water Resources,Flood Control & Embankment Strengthening,Rourkela,29.73,27.83,93.6,1.9,On Track
+OD-BUD-2023085,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Khordha,18.14,10.96,60.4,7.18,Delayed Spending
+OD-BUD-2023086,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Cuttack,18.47,13.07,70.8,5.4,Delayed Spending
+OD-BUD-2023087,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Puri,4.34,4.26,98.1,0.08,On Track
+OD-BUD-2023088,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Ganjam,34.51,19.66,57.0,14.85,Delayed Spending
+OD-BUD-2023089,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Mayurbhanj,7.8,7.31,93.7,0.49,On Track
+OD-BUD-2023090,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Balasore,17.55,7.6,43.3,9.95,Low Utilization
+OD-BUD-2023091,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Jajpur,23.36,10.36,44.3,13.0,Low Utilization
+OD-BUD-2023092,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Kalahandi,5.03,4.43,88.0,0.6,On Track
+OD-BUD-2023093,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Koraput,16.37,14.89,91.0,1.48,On Track
+OD-BUD-2023094,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Bhadrak,30.35,24.28,80.0,6.07,Delayed Spending
+OD-BUD-2023095,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Sundargarh,14.84,14.39,97.0,0.45,On Track
+OD-BUD-2023096,2023-24,Panchayati Raj,MGNREGA (Rural Employment Guarantee),Rourkela,43.19,38.91,90.1,4.28,On Track

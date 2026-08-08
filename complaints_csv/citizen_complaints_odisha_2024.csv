@@ -1,0 +1,151 @@
+complaint_id,date_filed,district,block_or_ward,department,complaint_text,priority,status,resolution_days,citizen_channel
+OD-CMP-2024001,2024-05-20,Cuttack,Netaji Nagar,Women & Child Development,"Anganwadi centre at Netaji Nagar, Cuttack closed for over 21 days without notice.",High,Open,,Toll-Free Helpline
+OD-CMP-2024002,2024-10-29,Rourkela,Rail Colony,Women & Child Development,"Anganwadi centre at Rail Colony, Rourkela closed for over 3 days without notice.",Medium,Open,,CPGRAMS Portal
+OD-CMP-2024003,2024-10-14,Koraput,Market Square,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Market Square area, Koraput.",High,Resolved,35,In-person at Block Office
+OD-CMP-2024004,2024-01-04,Kalahandi,Market Square,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Market Square area, Kalahandi.",Medium,Open,,In-person at Block Office
+OD-CMP-2024005,2024-06-21,Mayurbhanj,Ward 12,School & Mass Education,"Mid-day meal quality complaint received from parents at Ward 12 Upper Primary School, Mayurbhanj.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024006,2024-01-23,Bhadrak,Old Town,School & Mass Education,"Mid-day meal quality complaint received from parents at Old Town Upper Primary School, Bhadrak.",Medium,Resolved,25,Toll-Free Helpline
+OD-CMP-2024007,2024-07-04,Mayurbhanj,Panchayat Office,Rural Development,"Pothole-ridden village approach road near Panchayat Office, Mayurbhanj, causing accidents.",Medium,Resolved,3,CPGRAMS Portal
+OD-CMP-2024008,2024-02-21,Cuttack,Bus Stand area,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Bus Stand area, Cuttack.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024009,2024-12-09,Balasore,Gandhi Chowk,Health & Family Welfare,"Shortage of essential medicines reported at the Gandhi Chowk Primary Health Centre, Balasore.",High,Escalated,,Toll-Free Helpline
+OD-CMP-2024010,2024-05-05,Sundargarh,Ward 12,Water Resources,"Embankment breach risk reported near Ward 12 river bank, Sundargarh, ahead of monsoon.",High,In Progress,,CPGRAMS Portal
+OD-CMP-2024011,2024-01-17,Balasore,Netaji Nagar,Women & Child Development,"Anganwadi centre at Netaji Nagar, Balasore closed for over 5 days without notice.",Low,In Progress,,Toll-Free Helpline
+OD-CMP-2024012,2024-04-18,Bhadrak,Block HQ,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Block HQ area, Bhadrak.",Medium,In Progress,,In-person at Block Office
+OD-CMP-2024013,2024-10-14,Mayurbhanj,Ward 12,Health & Family Welfare,"Shortage of essential medicines reported at the Ward 12 Primary Health Centre, Mayurbhanj.",Medium,Resolved,28,In-person at Block Office
+OD-CMP-2024014,2024-09-09,Ganjam,Ward 12,School & Mass Education,"Mid-day meal quality complaint received from parents at Ward 12 Upper Primary School, Ganjam.",Critical,Open,,Toll-Free Helpline
+OD-CMP-2024015,2024-12-14,Sundargarh,Ward 12,Health & Family Welfare,"Shortage of essential medicines reported at the Ward 12 Primary Health Centre, Sundargarh.",Medium,Open,,In-person at Block Office
+OD-CMP-2024016,2024-10-10,Kalahandi,Rail Colony,Water Resources,"Embankment breach risk reported near Rail Colony river bank, Kalahandi, ahead of monsoon.",Low,Open,,Toll-Free Helpline
+OD-CMP-2024017,2024-11-24,Koraput,Old Town,Women & Child Development,"Anganwadi centre at Old Town, Koraput closed for over 30 days without notice.",High,In Progress,,CPGRAMS Portal
+OD-CMP-2024018,2024-05-14,Khordha,Block HQ,Housing & Urban Development,"Streetlights non-functional on the main road near Block HQ, Khordha, for 21 days.",Low,Resolved,33,Toll-Free Helpline
+OD-CMP-2024019,2024-11-07,Mayurbhanj,Panchayat Office,Women & Child Development,"Anganwadi centre at Panchayat Office, Mayurbhanj closed for over 14 days without notice.",High,In Progress,,CPGRAMS Portal
+OD-CMP-2024020,2024-06-14,Koraput,Netaji Nagar,Rural Development,"Pothole-ridden village approach road near Netaji Nagar, Koraput, causing accidents.",Medium,Open,,Mo Sarkar App
+OD-CMP-2024021,2024-10-17,Ganjam,Netaji Nagar,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Netaji Nagar, Ganjam.",Low,Open,,In-person at Block Office
+OD-CMP-2024022,2024-12-03,Koraput,Ward 12,Public Health Engineering,"No piped water supply for 5 consecutive days in Ward 12 ward, Koraput.",Medium,Resolved,17,In-person at Block Office
+OD-CMP-2024023,2024-04-12,Koraput,Block HQ,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Block HQ area, Koraput.",Medium,In Progress,,Mo Sarkar App
+OD-CMP-2024024,2024-05-06,Koraput,Kanika Colony,Housing & Urban Development,"Streetlights non-functional on the main road near Kanika Colony, Koraput, for 3 days.",High,In Progress,,CPGRAMS Portal
+OD-CMP-2024025,2024-12-28,Ganjam,Netaji Nagar,Water Resources,"Embankment breach risk reported near Netaji Nagar river bank, Ganjam, ahead of monsoon.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024026,2024-05-22,Cuttack,Rail Colony,School & Mass Education,"Mid-day meal quality complaint received from parents at Rail Colony Upper Primary School, Cuttack.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024027,2024-05-04,Bhadrak,Market Square,Panchayati Raj,"MGNREGA wage payment delay of over 10 days reported by workers in Market Square GP, Bhadrak.",Medium,Resolved,13,Toll-Free Helpline
+OD-CMP-2024028,2024-08-04,Sundargarh,Sahid Nagar,Public Health Engineering,"No piped water supply for 7 consecutive days in Sahid Nagar ward, Sundargarh.",Medium,Resolved,4,Toll-Free Helpline
+OD-CMP-2024029,2024-02-25,Jajpur,Block HQ,Public Health Engineering,"Water leakage reported near Block HQ in Jajpur, causing waterlogging and mosquito breeding.",High,Open,,In-person at Block Office
+OD-CMP-2024030,2024-08-24,Jajpur,Ward 12,Health & Family Welfare,"Shortage of essential medicines reported at the Ward 12 Primary Health Centre, Jajpur.",High,Escalated,,In-person at Block Office
+OD-CMP-2024031,2024-10-03,Cuttack,Netaji Nagar,Rural Development,"Pothole-ridden village approach road near Netaji Nagar, Cuttack, causing accidents.",Low,Escalated,,CPGRAMS Portal
+OD-CMP-2024032,2024-04-19,Jajpur,Kanika Colony,Health & Family Welfare,"Shortage of essential medicines reported at the Kanika Colony Primary Health Centre, Jajpur.",Low,Escalated,,CPGRAMS Portal
+OD-CMP-2024033,2024-08-20,Khordha,Sahid Nagar,Housing & Urban Development,"Irregular garbage collection for over 7 days in Sahid Nagar locality, Khordha.",High,Resolved,36,In-person at Block Office
+OD-CMP-2024034,2024-01-30,Ganjam,Old Town,Health & Family Welfare,"Shortage of essential medicines reported at the Old Town Primary Health Centre, Ganjam.",Medium,Resolved,21,Toll-Free Helpline
+OD-CMP-2024035,2024-09-28,Bhadrak,Kanika Colony,Public Health Engineering,"Water leakage reported near Kanika Colony in Bhadrak, causing waterlogging and mosquito breeding.",High,Escalated,,Toll-Free Helpline
+OD-CMP-2024036,2024-12-11,Cuttack,Market Square,Health & Family Welfare,"Shortage of essential medicines reported at the Market Square Primary Health Centre, Cuttack.",Low,In Progress,,CPGRAMS Portal
+OD-CMP-2024037,2024-02-11,Bhadrak,Netaji Nagar,Water Resources,"Embankment breach risk reported near Netaji Nagar river bank, Bhadrak, ahead of monsoon.",Medium,Resolved,34,Mo Sarkar App
+OD-CMP-2024038,2024-06-09,Ganjam,Panchayat Office,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Panchayat Office, Ganjam.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024039,2024-08-22,Balasore,Station Road,Housing & Urban Development,"Streetlights non-functional on the main road near Station Road, Balasore, for 3 days.",Medium,Resolved,7,Toll-Free Helpline
+OD-CMP-2024040,2024-03-08,Ganjam,Rail Colony,Rural Development,"Pothole-ridden village approach road near Rail Colony, Ganjam, causing accidents.",Low,Resolved,16,Mo Sarkar App
+OD-CMP-2024041,2024-10-05,Puri,Kanika Colony,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Kanika Colony, Puri.",Medium,Resolved,42,Toll-Free Helpline
+OD-CMP-2024042,2024-02-23,Koraput,Old Town,Women & Child Development,"Anganwadi centre at Old Town, Koraput closed for over 21 days without notice.",Low,Open,,Toll-Free Helpline
+OD-CMP-2024043,2024-05-19,Rourkela,Rail Colony,Public Health Engineering,"No piped water supply for 5 consecutive days in Rail Colony ward, Rourkela.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024044,2024-05-15,Sundargarh,Panchayat Office,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Panchayat Office area, Sundargarh.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024045,2024-05-21,Sundargarh,Sahid Nagar,Public Health Engineering,"No piped water supply for 30 consecutive days in Sahid Nagar ward, Sundargarh.",Critical,In Progress,,CPGRAMS Portal
+OD-CMP-2024046,2024-08-14,Mayurbhanj,Ward 12,Women & Child Development,"Anganwadi centre at Ward 12, Mayurbhanj closed for over 21 days without notice.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024047,2024-10-06,Cuttack,Block HQ,Public Health Engineering,"No piped water supply for 5 consecutive days in Block HQ ward, Cuttack.",Critical,In Progress,,CPGRAMS Portal
+OD-CMP-2024048,2024-07-05,Puri,Netaji Nagar,Housing & Urban Development,"Irregular garbage collection for over 7 days in Netaji Nagar locality, Puri.",Low,Resolved,3,Mo Sarkar App
+OD-CMP-2024049,2024-02-22,Sundargarh,Bus Stand area,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Bus Stand area area, Sundargarh.",High,Resolved,27,CPGRAMS Portal
+OD-CMP-2024050,2024-01-13,Puri,Ward 12,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Ward 12 area, Puri.",High,Escalated,,In-person at Block Office
+OD-CMP-2024051,2024-03-22,Rourkela,Bus Stand area,Women & Child Development,"Anganwadi centre at Bus Stand area, Rourkela closed for over 7 days without notice.",Medium,Open,,Toll-Free Helpline
+OD-CMP-2024052,2024-08-23,Ganjam,Bus Stand area,Housing & Urban Development,"Streetlights non-functional on the main road near Bus Stand area, Ganjam, for 30 days.",High,Resolved,15,CPGRAMS Portal
+OD-CMP-2024053,2024-06-17,Sundargarh,Bus Stand area,Public Health Engineering,"Water leakage reported near Bus Stand area in Sundargarh, causing waterlogging and mosquito breeding.",High,Open,,Mo Sarkar App
+OD-CMP-2024054,2024-12-13,Sundargarh,Rail Colony,School & Mass Education,"Mid-day meal quality complaint received from parents at Rail Colony Upper Primary School, Sundargarh.",Low,Resolved,2,Toll-Free Helpline
+OD-CMP-2024055,2024-01-20,Puri,Market Square,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Market Square, Puri.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024056,2024-07-16,Bhadrak,Rail Colony,Housing & Urban Development,"Irregular garbage collection for over 3 days in Rail Colony locality, Bhadrak.",Low,Open,,Toll-Free Helpline
+OD-CMP-2024057,2024-10-02,Jajpur,Netaji Nagar,Panchayati Raj,"MGNREGA wage payment delay of over 14 days reported by workers in Netaji Nagar GP, Jajpur.",Medium,Escalated,,CPGRAMS Portal
+OD-CMP-2024058,2024-06-18,Jajpur,Station Road,School & Mass Education,"Mid-day meal quality complaint received from parents at Station Road Upper Primary School, Jajpur.",Medium,Resolved,8,Mo Sarkar App
+OD-CMP-2024059,2024-06-16,Mayurbhanj,Panchayat Office,Rural Development,"Pothole-ridden village approach road near Panchayat Office, Mayurbhanj, causing accidents.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024060,2024-12-12,Jajpur,Panchayat Office,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Panchayat Office area, Jajpur.",Medium,Open,,Mo Sarkar App
+OD-CMP-2024061,2024-05-26,Koraput,Netaji Nagar,Housing & Urban Development,"Irregular garbage collection for over 7 days in Netaji Nagar locality, Koraput.",High,Resolved,39,Mo Sarkar App
+OD-CMP-2024062,2024-04-19,Kalahandi,Kanika Colony,Housing & Urban Development,"Streetlights non-functional on the main road near Kanika Colony, Kalahandi, for 21 days.",Medium,Resolved,11,Toll-Free Helpline
+OD-CMP-2024063,2024-11-13,Koraput,Panchayat Office,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Panchayat Office, Koraput.",High,Resolved,16,Mo Sarkar App
+OD-CMP-2024064,2024-01-24,Ganjam,Ward 12,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Ward 12 area, Ganjam.",High,In Progress,,Toll-Free Helpline
+OD-CMP-2024065,2024-04-09,Jajpur,Panchayat Office,Housing & Urban Development,"Streetlights non-functional on the main road near Panchayat Office, Jajpur, for 14 days.",Medium,In Progress,,In-person at Block Office
+OD-CMP-2024066,2024-01-03,Puri,Panchayat Office,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Panchayat Office area, Puri.",Low,Resolved,7,In-person at Block Office
+OD-CMP-2024067,2024-08-25,Puri,Block HQ,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Block HQ area, Puri.",Critical,In Progress,,Toll-Free Helpline
+OD-CMP-2024068,2024-09-28,Puri,Kanika Colony,Housing & Urban Development,"Streetlights non-functional on the main road near Kanika Colony, Puri, for 21 days.",Low,Resolved,29,In-person at Block Office
+OD-CMP-2024069,2024-08-31,Kalahandi,Ward 12,Rural Development,"Pothole-ridden village approach road near Ward 12, Kalahandi, causing accidents.",Medium,Resolved,41,Mo Sarkar App
+OD-CMP-2024070,2024-05-20,Kalahandi,Panchayat Office,Rural Development,"Pothole-ridden village approach road near Panchayat Office, Kalahandi, causing accidents.",Medium,Resolved,16,Mo Sarkar App
+OD-CMP-2024071,2024-03-11,Balasore,Rail Colony,School & Mass Education,"Mid-day meal quality complaint received from parents at Rail Colony Upper Primary School, Balasore.",High,In Progress,,CPGRAMS Portal
+OD-CMP-2024072,2024-07-27,Ganjam,Station Road,Panchayati Raj,"MGNREGA wage payment delay of over 10 days reported by workers in Station Road GP, Ganjam.",High,In Progress,,Toll-Free Helpline
+OD-CMP-2024073,2024-10-26,Jajpur,Sahid Nagar,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Sahid Nagar area, Jajpur.",Low,Open,,In-person at Block Office
+OD-CMP-2024074,2024-07-18,Khordha,Gandhi Chowk,Housing & Urban Development,"Streetlights non-functional on the main road near Gandhi Chowk, Khordha, for 7 days.",Low,Escalated,,In-person at Block Office
+OD-CMP-2024075,2024-11-04,Rourkela,Block HQ,Rural Development,"Pothole-ridden village approach road near Block HQ, Rourkela, causing accidents.",Low,In Progress,,Mo Sarkar App
+OD-CMP-2024076,2024-06-21,Kalahandi,Netaji Nagar,Housing & Urban Development,"Irregular garbage collection for over 10 days in Netaji Nagar locality, Kalahandi.",Medium,Resolved,11,In-person at Block Office
+OD-CMP-2024077,2024-07-20,Bhadrak,Rail Colony,Health & Family Welfare,"Shortage of essential medicines reported at the Rail Colony Primary Health Centre, Bhadrak.",Medium,Resolved,6,In-person at Block Office
+OD-CMP-2024078,2024-05-13,Kalahandi,Ward 12,Health & Family Welfare,"Shortage of essential medicines reported at the Ward 12 Primary Health Centre, Kalahandi.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024079,2024-08-03,Jajpur,Old Town,School & Mass Education,"Mid-day meal quality complaint received from parents at Old Town Upper Primary School, Jajpur.",High,Open,,Toll-Free Helpline
+OD-CMP-2024080,2024-04-24,Koraput,Netaji Nagar,Panchayati Raj,"MGNREGA wage payment delay of over 7 days reported by workers in Netaji Nagar GP, Koraput.",Medium,Resolved,42,Toll-Free Helpline
+OD-CMP-2024081,2024-01-11,Ganjam,Bus Stand area,Public Health Engineering,"Water leakage reported near Bus Stand area in Ganjam, causing waterlogging and mosquito breeding.",Medium,In Progress,,In-person at Block Office
+OD-CMP-2024082,2024-08-26,Cuttack,Market Square,Women & Child Development,"Anganwadi centre at Market Square, Cuttack closed for over 5 days without notice.",Medium,Resolved,11,Toll-Free Helpline
+OD-CMP-2024083,2024-01-14,Mayurbhanj,Station Road,Health & Family Welfare,"Shortage of essential medicines reported at the Station Road Primary Health Centre, Mayurbhanj.",Low,Resolved,25,In-person at Block Office
+OD-CMP-2024084,2024-12-19,Ganjam,Station Road,Panchayati Raj,"MGNREGA wage payment delay of over 14 days reported by workers in Station Road GP, Ganjam.",Low,In Progress,,Mo Sarkar App
+OD-CMP-2024085,2024-10-16,Bhadrak,Station Road,Women & Child Development,"Anganwadi centre at Station Road, Bhadrak closed for over 30 days without notice.",Medium,In Progress,,In-person at Block Office
+OD-CMP-2024086,2024-11-27,Balasore,Station Road,Women & Child Development,"Anganwadi centre at Station Road, Balasore closed for over 14 days without notice.",High,Resolved,32,Toll-Free Helpline
+OD-CMP-2024087,2024-08-23,Balasore,Panchayat Office,Housing & Urban Development,"Irregular garbage collection for over 30 days in Panchayat Office locality, Balasore.",Medium,In Progress,,Mo Sarkar App
+OD-CMP-2024088,2024-08-11,Koraput,Kanika Colony,Water Resources,"Embankment breach risk reported near Kanika Colony river bank, Koraput, ahead of monsoon.",Low,Resolved,21,CPGRAMS Portal
+OD-CMP-2024089,2024-08-25,Mayurbhanj,Kanika Colony,Public Health Engineering,"No piped water supply for 5 consecutive days in Kanika Colony ward, Mayurbhanj.",Medium,Resolved,22,Toll-Free Helpline
+OD-CMP-2024090,2024-04-18,Balasore,Ward 12,Housing & Urban Development,"Streetlights non-functional on the main road near Ward 12, Balasore, for 10 days.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024091,2024-01-06,Rourkela,Old Town,Water Resources,"Embankment breach risk reported near Old Town river bank, Rourkela, ahead of monsoon.",Medium,Open,,CPGRAMS Portal
+OD-CMP-2024092,2024-05-03,Jajpur,Kanika Colony,Panchayati Raj,"MGNREGA wage payment delay of over 14 days reported by workers in Kanika Colony GP, Jajpur.",Medium,Resolved,32,In-person at Block Office
+OD-CMP-2024093,2024-07-26,Cuttack,Old Town,Public Health Engineering,"Water leakage reported near Old Town in Cuttack, causing waterlogging and mosquito breeding.",Medium,In Progress,,Mo Sarkar App
+OD-CMP-2024094,2024-08-05,Koraput,Rail Colony,Housing & Urban Development,"Streetlights non-functional on the main road near Rail Colony, Koraput, for 7 days.",Low,Resolved,23,In-person at Block Office
+OD-CMP-2024095,2024-03-02,Mayurbhanj,Old Town,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Old Town, Mayurbhanj.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024096,2024-05-21,Ganjam,Block HQ,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Block HQ area, Ganjam.",Medium,Escalated,,Mo Sarkar App
+OD-CMP-2024097,2024-07-03,Ganjam,Old Town,Public Health Engineering,"No piped water supply for 5 consecutive days in Old Town ward, Ganjam.",High,Open,,CPGRAMS Portal
+OD-CMP-2024098,2024-05-29,Khordha,Netaji Nagar,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Netaji Nagar, Khordha.",Medium,Open,,In-person at Block Office
+OD-CMP-2024099,2024-08-28,Khordha,Market Square,Public Health Engineering,"No piped water supply for 7 consecutive days in Market Square ward, Khordha.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024100,2024-02-03,Kalahandi,Station Road,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Station Road, Kalahandi.",Medium,Open,,Toll-Free Helpline
+OD-CMP-2024101,2024-02-13,Puri,Market Square,Health & Family Welfare,"Shortage of essential medicines reported at the Market Square Primary Health Centre, Puri.",Low,Open,,In-person at Block Office
+OD-CMP-2024102,2024-09-24,Bhadrak,Market Square,Water Resources,"Embankment breach risk reported near Market Square river bank, Bhadrak, ahead of monsoon.",High,Escalated,,Mo Sarkar App
+OD-CMP-2024103,2024-11-13,Jajpur,Old Town,Water Resources,"Embankment breach risk reported near Old Town river bank, Jajpur, ahead of monsoon.",Critical,Escalated,,Toll-Free Helpline
+OD-CMP-2024104,2024-12-04,Sundargarh,Bus Stand area,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Bus Stand area area, Sundargarh.",Critical,In Progress,,Toll-Free Helpline
+OD-CMP-2024105,2024-12-18,Khordha,Sahid Nagar,Health & Family Welfare,"Shortage of essential medicines reported at the Sahid Nagar Primary Health Centre, Khordha.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024106,2024-08-20,Rourkela,Old Town,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Old Town, Rourkela.",Critical,In Progress,,Mo Sarkar App
+OD-CMP-2024107,2024-04-11,Bhadrak,Panchayat Office,Women & Child Development,"Anganwadi centre at Panchayat Office, Bhadrak closed for over 30 days without notice.",Medium,Resolved,42,CPGRAMS Portal
+OD-CMP-2024108,2024-03-25,Puri,Station Road,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Station Road, Puri.",Medium,Resolved,37,Mo Sarkar App
+OD-CMP-2024109,2024-06-04,Cuttack,Kanika Colony,Housing & Urban Development,"Streetlights non-functional on the main road near Kanika Colony, Cuttack, for 21 days.",Medium,Escalated,,In-person at Block Office
+OD-CMP-2024110,2024-08-09,Cuttack,Market Square,Housing & Urban Development,"Streetlights non-functional on the main road near Market Square, Cuttack, for 3 days.",Medium,Resolved,2,Toll-Free Helpline
+OD-CMP-2024111,2024-01-11,Sundargarh,Market Square,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Market Square area, Sundargarh.",Low,Resolved,18,Toll-Free Helpline
+OD-CMP-2024112,2024-08-14,Kalahandi,Rail Colony,Health & Family Welfare,"Shortage of essential medicines reported at the Rail Colony Primary Health Centre, Kalahandi.",Low,Open,,In-person at Block Office
+OD-CMP-2024113,2024-06-27,Kalahandi,Station Road,Women & Child Development,"Anganwadi centre at Station Road, Kalahandi closed for over 10 days without notice.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024114,2024-09-10,Balasore,Sahid Nagar,Health & Family Welfare,"Shortage of essential medicines reported at the Sahid Nagar Primary Health Centre, Balasore.",High,Escalated,,Toll-Free Helpline
+OD-CMP-2024115,2024-06-14,Cuttack,Gandhi Chowk,Housing & Urban Development,"Streetlights non-functional on the main road near Gandhi Chowk, Cuttack, for 7 days.",High,Resolved,33,Toll-Free Helpline
+OD-CMP-2024116,2024-01-28,Koraput,Kanika Colony,Women & Child Development,"Anganwadi centre at Kanika Colony, Koraput closed for over 10 days without notice.",High,In Progress,,In-person at Block Office
+OD-CMP-2024117,2024-05-16,Kalahandi,Netaji Nagar,Women & Child Development,"Anganwadi centre at Netaji Nagar, Kalahandi closed for over 5 days without notice.",Medium,Escalated,,In-person at Block Office
+OD-CMP-2024118,2024-11-18,Kalahandi,Station Road,Panchayati Raj,"MGNREGA wage payment delay of over 3 days reported by workers in Station Road GP, Kalahandi.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024119,2024-07-27,Koraput,Netaji Nagar,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Netaji Nagar, Koraput.",Critical,Escalated,,Toll-Free Helpline
+OD-CMP-2024120,2024-03-19,Cuttack,Panchayat Office,Housing & Urban Development,"Streetlights non-functional on the main road near Panchayat Office, Cuttack, for 30 days.",Medium,Resolved,33,Mo Sarkar App
+OD-CMP-2024121,2024-08-21,Kalahandi,Kanika Colony,Housing & Urban Development,"Irregular garbage collection for over 5 days in Kanika Colony locality, Kalahandi.",Medium,In Progress,,CPGRAMS Portal
+OD-CMP-2024122,2024-09-16,Mayurbhanj,Sahid Nagar,Public Health Engineering,"No piped water supply for 7 consecutive days in Sahid Nagar ward, Mayurbhanj.",High,Open,,Mo Sarkar App
+OD-CMP-2024123,2024-03-17,Bhadrak,Panchayat Office,Water Resources,"Embankment breach risk reported near Panchayat Office river bank, Bhadrak, ahead of monsoon.",Medium,In Progress,,Mo Sarkar App
+OD-CMP-2024124,2024-06-13,Koraput,Sahid Nagar,Rural Development,"Pothole-ridden village approach road near Sahid Nagar, Koraput, causing accidents.",Low,Escalated,,CPGRAMS Portal
+OD-CMP-2024125,2024-07-29,Jajpur,Bus Stand area,Water Resources,"Embankment breach risk reported near Bus Stand area river bank, Jajpur, ahead of monsoon.",Critical,Resolved,25,In-person at Block Office
+OD-CMP-2024126,2024-01-19,Sundargarh,Ward 12,Women & Child Development,"Anganwadi centre at Ward 12, Sundargarh closed for over 10 days without notice.",High,Escalated,,Mo Sarkar App
+OD-CMP-2024127,2024-08-21,Kalahandi,Station Road,Public Health Engineering,"No piped water supply for 14 consecutive days in Station Road ward, Kalahandi.",Critical,Open,,CPGRAMS Portal
+OD-CMP-2024128,2024-11-15,Kalahandi,Old Town,Public Health Engineering,"No piped water supply for 7 consecutive days in Old Town ward, Kalahandi.",Medium,Resolved,22,In-person at Block Office
+OD-CMP-2024129,2024-09-06,Sundargarh,Block HQ,School & Mass Education,"Mid-day meal quality complaint received from parents at Block HQ Upper Primary School, Sundargarh.",Low,Open,,Toll-Free Helpline
+OD-CMP-2024130,2024-04-26,Sundargarh,Panchayat Office,Health & Family Welfare,"Delay in ambulance response time (>45 mins) reported in Panchayat Office area, Sundargarh.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024131,2024-03-26,Rourkela,Station Road,Women & Child Development,"Anganwadi centre at Station Road, Rourkela closed for over 10 days without notice.",Medium,Escalated,,Toll-Free Helpline
+OD-CMP-2024132,2024-07-10,Khordha,Old Town,School & Mass Education,"Mid-day meal quality complaint received from parents at Old Town Upper Primary School, Khordha.",Medium,In Progress,,In-person at Block Office
+OD-CMP-2024133,2024-03-30,Sundargarh,Ward 12,Water Resources,"Embankment breach risk reported near Ward 12 river bank, Sundargarh, ahead of monsoon.",Critical,Resolved,40,CPGRAMS Portal
+OD-CMP-2024134,2024-08-24,Bhadrak,Ward 12,Housing & Urban Development,"Streetlights non-functional on the main road near Ward 12, Bhadrak, for 5 days.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024135,2024-03-21,Mayurbhanj,Panchayat Office,Housing & Urban Development,"Streetlights non-functional on the main road near Panchayat Office, Mayurbhanj, for 14 days.",Critical,Escalated,,Mo Sarkar App
+OD-CMP-2024136,2024-08-21,Jajpur,Block HQ,Women & Child Development,"Anganwadi centre at Block HQ, Jajpur closed for over 7 days without notice.",Low,Open,,In-person at Block Office
+OD-CMP-2024137,2024-10-19,Cuttack,Bus Stand area,Housing & Urban Development,"Streetlights non-functional on the main road near Bus Stand area, Cuttack, for 10 days.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024138,2024-01-05,Sundargarh,Sahid Nagar,Public Health Engineering,"Water leakage reported near Sahid Nagar in Sundargarh, causing waterlogging and mosquito breeding.",Medium,Resolved,4,In-person at Block Office
+OD-CMP-2024139,2024-06-29,Ganjam,Market Square,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Market Square, Ganjam.",High,Open,,Mo Sarkar App
+OD-CMP-2024140,2024-03-11,Rourkela,Panchayat Office,Women & Child Development,"Anganwadi centre at Panchayat Office, Rourkela closed for over 21 days without notice.",Medium,Escalated,,Toll-Free Helpline
+OD-CMP-2024141,2024-07-05,Kalahandi,Netaji Nagar,School & Mass Education,"Non-functional toilets for girl students at Govt. School, Netaji Nagar, Kalahandi.",Medium,Open,,Mo Sarkar App
+OD-CMP-2024142,2024-04-12,Rourkela,Sahid Nagar,School & Mass Education,"Mid-day meal quality complaint received from parents at Sahid Nagar Upper Primary School, Rourkela.",High,Resolved,24,Mo Sarkar App
+OD-CMP-2024143,2024-05-31,Mayurbhanj,Kanika Colony,Health & Family Welfare,"Shortage of essential medicines reported at the Kanika Colony Primary Health Centre, Mayurbhanj.",Medium,In Progress,,Toll-Free Helpline
+OD-CMP-2024144,2024-04-25,Cuttack,Ward 12,Housing & Urban Development,"Streetlights non-functional on the main road near Ward 12, Cuttack, for 30 days.",Low,Resolved,26,Mo Sarkar App
+OD-CMP-2024145,2024-10-01,Jajpur,Netaji Nagar,Public Health Engineering,"No piped water supply for 7 consecutive days in Netaji Nagar ward, Jajpur.",High,In Progress,,Mo Sarkar App
+OD-CMP-2024146,2024-02-25,Jajpur,Panchayat Office,Water Resources,"Embankment breach risk reported near Panchayat Office river bank, Jajpur, ahead of monsoon.",Medium,In Progress,,Mo Sarkar App
+OD-CMP-2024147,2024-11-21,Ganjam,Panchayat Office,Water Resources,"Embankment breach risk reported near Panchayat Office river bank, Ganjam, ahead of monsoon.",Low,Escalated,,Mo Sarkar App
+OD-CMP-2024148,2024-01-24,Jajpur,Station Road,Women & Child Development,"Anganwadi centre at Station Road, Jajpur closed for over 5 days without notice.",Low,In Progress,,In-person at Block Office
+OD-CMP-2024149,2024-03-10,Cuttack,Bus Stand area,Public Health Engineering,"No piped water supply for 14 consecutive days in Bus Stand area ward, Cuttack.",High,In Progress,,In-person at Block Office
+OD-CMP-2024150,2024-07-31,Rourkela,Block HQ,Water Resources,"Embankment breach risk reported near Block HQ river bank, Rourkela, ahead of monsoon.",Medium,Resolved,40,In-person at Block Office

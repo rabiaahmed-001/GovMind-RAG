@@ -1,0 +1,202 @@
+[
+  {
+    "id": "Q01",
+    "question": "By what percentage was Dearness Allowance enhanced and from what date does it take effect?",
+    "expected_answer": "DA was enhanced from 42% to 46% of Basic Pay/Pension, effective 1st January 2024.",
+    "expected_sources": ["Finance_Dept_DA_Hike_Circular_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q02",
+    "question": "Which categories of people are eligible for the DA hike?",
+    "expected_answer": "Regular State Government employees, employees of Aided Educational Institutions, and pensioners drawing pension from the Consolidated Fund of the State.",
+    "expected_sources": ["Finance_Dept_DA_Hike_Circular_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q03",
+    "question": "For contractual and outsourced employees, when will arrears for the April-June 2024 period be paid, and what condition applies?",
+    "expected_answer": "Arrears will be released along with the August 2024 salary, subject to availability of budgetary provision under the respective Head of Account.",
+    "expected_sources": ["GA_PG_Contractual_Remuneration_Circular_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q04",
+    "question": "Does the GA&PG contractual remuneration clarification apply to staff on centrally-sponsored schemes?",
+    "expected_answer": "No — the clarification explicitly excludes employees engaged under externally-aided or centrally-sponsored schemes, whose pay is governed by scheme-specific guidelines.",
+    "expected_sources": ["GA_PG_Contractual_Remuneration_Circular_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q05",
+    "question": "How many Child Care Institutions were inspected in Mayurbhanj, and how many were found compliant?",
+    "expected_answer": "Five CCIs were inspected; two were found broadly compliant and three were found deficient on one or more parameters.",
+    "expected_sources": ["CCI_Inspection_Report_Mayurbhanj_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q06",
+    "question": "Which Mayurbhanj CCI has an expired fire safety NOC, and what action was directed?",
+    "expected_answer": "Nirmal Nivas, Udala (a boys' Children's Home) had an expired fire safety NOC, marked High risk, with directions to renew the NOC.",
+    "expected_sources": ["CCI_Inspection_Report_Mayurbhanj_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q07",
+    "question": "What was the overall school infrastructure compliance rate in the Ganjam inspection, and how did it change from the previous cycle?",
+    "expected_answer": "Overall compliance was 71%, up 6 percentage points from the previous inspection cycle.",
+    "expected_sources": ["School_Infrastructure_Inspection_Ganjam_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q08",
+    "question": "Which Ganjam school has non-functional girls' toilets, and what block is it in?",
+    "expected_answer": "Govt. UP School, Rambha, in Chhatrapur block, has non-functional girls' toilets.",
+    "expected_sources": ["School_Infrastructure_Inspection_Ganjam_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q09",
+    "question": "Which districts were named as dengue/VBD hotspots in the Health advisory, and how often must compliance reports be submitted?",
+    "expected_answer": "Khordha, Cuttack, Ganjam, Puri, and Balasore were named as hotspot districts; compliance reports are due fortnightly.",
+    "expected_sources": ["HFW_Dengue_VBD_Advisory_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q10",
+    "question": "Within what timeframe must Rapid Response Teams investigate a cluster of fever cases, and how often must suspected dengue cases be reported to IDSP?",
+    "expected_answer": "Fever case clusters must be investigated within 24 hours of reporting; suspected dengue/chikungunya/malaria cases must be reported to the IDSP portal daily.",
+    "expected_sources": ["HFW_Dengue_VBD_Advisory_2024.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q11",
+    "question": "Until when has the Odisha EV Policy 2021 been extended, and which incentive categories does the extension cover?",
+    "expected_answer": "Extended up to 30th September 2026, covering demand incentives for two/three/four-wheeler EVs, capital subsidy for public charging infrastructure, and SGST reimbursement for EV manufacturers.",
+    "expected_sources": ["Odisha_EV_Policy_2021_Extension_2026.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q12",
+    "question": "What must be presented to the Cabinet before the extended EV Policy period expires?",
+    "expected_answer": "A comprehensive review of the policy's outcomes — total EVs registered, charging stations commissioned, and direct/indirect employment generated.",
+    "expected_sources": ["Odisha_EV_Policy_2021_Extension_2026.pdf"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q13",
+    "question": "Which district had the lowest utilization percentage for Jal Jeevan Mission funds under Public Health Engineering in FY2023-24?",
+    "expected_answer": "Kalahandi, with 23.7% utilization (₹44.48 Cr allocated vs ₹10.56 Cr utilized), flagged 'Low Utilization'.",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q14",
+    "question": "How many budget line items across the dataset are flagged 'Low Utilization', and how does that compare to 'On Track' items?",
+    "expected_answer": "16 rows are flagged 'Low Utilization' versus 49 flagged 'On Track' (and 31 'Delayed Spending'), out of 96 total rows.",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q15",
+    "question": "What is the most common citizen channel used to file complaints, and what are the main complaint categories about Anganwadi centres?",
+    "expected_answer": "Complaints come through channels like Toll-Free Helpline, CPGRAMS Portal, Mo Sarkar App, and in-person visits; Anganwadi-related complaints are mainly about centres closed without notice for extended periods.",
+    "expected_sources": ["citizen_complaints_odisha_2024.csv"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  },
+  {
+    "id": "Q16",
+    "question": "What kinds of complaints were filed in Mayurbhanj district in 2024, and which departments do they involve?",
+    "expected_answer": "Mayurbhanj complaints span Women & Child Development (Anganwadi closures), School & Mass Education (mid-day meal quality), Rural Development (potholed roads), and Public Health Engineering (no piped water supply).",
+    "expected_sources": ["citizen_complaints_odisha_2024.csv"],
+    "retrieval_type": "single-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q17",
+    "question": "Cuttack's Jal Jeevan Mission budget shows only 32.5% utilization. Is there citizen complaint evidence consistent with that low spending?",
+    "expected_answer": "Yes — a Public Health Engineering complaint from Cuttack (Block HQ) reports no piped water supply for 5 consecutive days, consistent with the district's low JJM/PHE fund utilization.",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv", "citizen_complaints_odisha_2024.csv"],
+    "retrieval_type": "multi-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q18",
+    "question": "Mayurbhanj's Mission Shakti/ICDS budget utilization is only 59.5% ('Delayed Spending'). Does this align with the CCI inspection findings and Anganwadi complaints from the same district?",
+    "expected_answer": "It's broadly consistent — the CCI inspection found 3 of 5 institutions deficient (vacant counsellor post, outdated care plans, lapsed fire NOC), and citizen complaints report repeated unnotified Anganwadi closures in Mayurbhanj, though these are technically different WCD scheme tracks (ICDS/Mission Shakti vs. JJ Act-governed CCIs) so the link is suggestive, not a direct fund-to-facility match.",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv", "CCI_Inspection_Report_Mayurbhanj_2024.pdf", "citizen_complaints_odisha_2024.csv"],
+    "retrieval_type": "multi-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q19",
+    "question": "Ganjam's Samagra Shiksha budget utilization was 89.1% ('On Track'). Does that match what the school infrastructure inspection found?",
+    "expected_answer": "Partially — overall grant utilization by school was high (94%, 88%, 72%, 79% etc. across sampled schools) and district-level Samagra Shiksha spend is 'On Track', but physical infrastructure compliance (71%) still lags, showing funds utilized doesn't guarantee full infrastructure fixes (e.g., toilet and water issues persist in 3 schools).",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv", "School_Infrastructure_Inspection_Ganjam_2024.pdf"],
+    "retrieval_type": "multi-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q20",
+    "question": "A citizen complaint reports a mid-day meal quality issue at Ward 12 Upper Primary School in Ganjam. What does the inspection report say about MDM kitchen compliance at nearby schools?",
+    "expected_answer": "The inspection report shows MDM kitchen-cum-store compliance was generally 'Compliant' across most inspected Ganjam schools, with only minor gaps at one school (Berhampur-II) — so the complaint is not fully corroborated by the sampled inspection, which covered a different set of specific schools.",
+    "expected_sources": ["citizen_complaints_odisha_2024.csv", "School_Infrastructure_Inspection_Ganjam_2024.pdf"],
+    "retrieval_type": "multi-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q21",
+    "question": "Compare how the Finance Department's DA circular and the GA&PG contractual remuneration circular each handle arrears — timing and funding source.",
+    "expected_answer": "The DA circular releases arrears (from 1 Jan 2024) in two equal instalments, funded from each department's existing sanctioned budget with no supplementary demand. The GA&PG circular releases contractual-staff arrears (Apr-Jun 2024) as a lump sum with the August 2024 salary, subject to budgetary provision availability under the relevant Head of Account.",
+    "expected_sources": ["Finance_Dept_DA_Hike_Circular_2024.pdf", "GA_PG_Contractual_Remuneration_Circular_2024.pdf"],
+    "retrieval_type": "multi-document",
+    "difficulty": "medium"
+  },
+  {
+    "id": "Q22",
+    "question": "Given the dengue advisory's hotspot districts and the health budget data, which of those districts also show weak NHM fund utilization, and are there related citizen complaints?",
+    "expected_answer": "Balasore is a named hotspot with NHM utilization of only 34.1% ('Low Utilization'); citizen complaints from Health & Family Welfare in Balasore include a medicine-shortage report, suggesting a compounding preparedness gap ahead of vector-borne disease season.",
+    "expected_sources": ["HFW_Dengue_VBD_Advisory_2024.pdf", "budget_allocation_utilization_odisha_2023_24.csv", "citizen_complaints_odisha_2024.csv"],
+    "retrieval_type": "multi-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q23",
+    "question": "How much budget was allocated for the Odisha EV Policy incentive schemes in FY2023-24 according to the budget dataset?",
+    "expected_answer": "The budget dataset does not include any EV-specific department or scheme (it covers PHE, HFW, School & Mass Education, Housing & Urban Development, Rural Development, WCD, Water Resources, and Panchayati Raj only) — this cannot be answered from the provided sources and the system should say so rather than fabricate a figure.",
+    "expected_sources": ["budget_allocation_utilization_odisha_2023_24.csv"],
+    "retrieval_type": "single-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q24",
+    "question": "Are the Anganwadi closure complaints in Mayurbhanj about the same institutions inspected in the CCI report?",
+    "expected_answer": "No — Anganwadi centres (ICDS/Mission Shakti, run for early childhood care) are a distinct facility type from the five named Child Care Institutions (Shishu Bhawan, Balashram, Asha Kiran, Nirmal Nivas, Snehalaya) inspected under the Juvenile Justice Act; the two document sets should not be conflated even though both fall under Women & Child Development in Mayurbhanj.",
+    "expected_sources": ["citizen_complaints_odisha_2024.csv", "CCI_Inspection_Report_Mayurbhanj_2024.pdf"],
+    "retrieval_type": "multi-document",
+    "difficulty": "hard"
+  },
+  {
+    "id": "Q25",
+    "question": "What types of documents make up this knowledge base, and roughly how many records does each source contain?",
+    "expected_answer": "Two policy notifications (H&FW dengue advisory, EV Policy extension), two administrative circulars (Finance DA hike, GA&PG contractual remuneration), two inspection reports (CCI Mayurbhanj, School Infrastructure Ganjam), 150 synthetic citizen complaints across 12 districts/8 departments, and 96 rows of FY2023-24 budget allocation vs. utilization data.",
+    "expected_sources": ["README.md"],
+    "retrieval_type": "single-document",
+    "difficulty": "easy"
+  }
+]
