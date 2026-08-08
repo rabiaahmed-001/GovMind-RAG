@@ -126,7 +126,7 @@ def main():
 
         st.subheader("Answer")
 
-        answer = result.get("answer", "")
+        answer = result.answer
 
         if answer:
             st.write(answer)
@@ -139,7 +139,7 @@ def main():
 
         st.subheader("Sources")
 
-        chunks = result.get("chunks", [])
+        chunks = result.chunks
         sources = result.get("sources", [])
 
         if not chunks:
