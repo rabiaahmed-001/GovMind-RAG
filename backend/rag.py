@@ -39,7 +39,7 @@ import chromadb
 from config import COLLECTION_NAME, EMBEDDING_BACKEND, PERSIST_DIR
 from embeddings import get_embedding_function
 
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3.5-flash"
 DEFAULT_K = 8  # k=5 was missing chunks needed for complete answers (e.g.
 # allocation + utilization figures living in separate CSV-row chunks);
 # k=8 reliably pulls both in. Bump further if you see similar gaps.
