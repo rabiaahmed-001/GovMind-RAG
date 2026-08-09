@@ -1,19 +1,17 @@
 # GovMind
 
-GovMind is a retrieval-augmented generation (RAG) assistant for querying
-Odisha government documents — policy PDFs, circulars, inspection reports,
-and structured citizen-complaint / budget CSV data — using natural
+GovMind is a retrieval augmented generation (RAG) assistant for querying
+Odisha government documents including policy PDFs, circulars, inspection reports
+and structured citizen complaint / budget CSV data using natural
 language, with every answer grounded in cited source documents.
 
 ## Why RAG, not just an LLM
 
-Government data changes, is siloed across formats (PDF policy docs, CSV
-budget tables, inspection reports), and answers need to be traceable back
-to a source — not just plausible-sounding. GovMind retrieves the actual
+Government data changes is siloed across formats (PDF policy docs, CSV
+budget tables, inspection reports).and answers need to be trace back
+to a source. GovMind retrieves the actual
 relevant excerpts from a local knowledge base before generating an
-answer, and every claim in the answer is tied to a numbered source, so
-you can verify it against the original document rather than trusting the
-model's word for it.
+answer and every claim in the answer is tied to a numbered source which means you can verify it against the original document rather than trusting the model's word for it.
 
 ## How it works
 
@@ -126,9 +124,9 @@ GovMind RAG/
 ## Notes
 
 - `chroma_store/` and `.env` are intentionally excluded from version
-  control (see `.gitignore`) — clone the repo and run ingestion locally
+  control (see `.gitignore`) clone the repo and run ingestion locally
   to regenerate the vector store.
 - Answers are generated strictly from retrieved context; the system is
   designed to say so when the knowledge base doesn't contain enough
-  information to answer, rather than fall back on the model's general
+  information to answer rather than fall back on the model's general
   knowledge.
